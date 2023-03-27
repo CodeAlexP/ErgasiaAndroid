@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Έξυπνη Ειδοποίηση</string>
+    <string name="report">Αναφορά</string>
+    <string name="select_picture">Επιλέξτε Εικόνα</string>
+    <string name="comments">Σχόλια</string>
+    <string name="change_language">Αλλαγή Γλώσσας</string>
+    <string name="logout">Αποσύνδεση</string>
+    <string name="info">Πληροφορίες</string>
+    <string name="login_page">Σελίδα Σύνδεσης</string>
+    <string name="email">Email</string>
+    <string name="password">Κωδικός</string>
+    <string name="login">Σύνδεση</string>
+    <string name="register">Εγγραφή</string>
+    <string name="first_name">Όνομα</string>
+    <string name="last_name">Επίθετο</string>
+    <string name="register_page">Σελίδα Εγγραφής</string>
+    <string name="register_user">Εγγραφή Χρήστη</string>
+    <string name="employee">Υπάλληλος</string>
+    <string name="event">Συμβάν:</string>
+    <string name="report_time">Ώρα Αναφοράς:</string>
+    <string name="timestamp">Χρονική Σοήμανση</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="user_comments">Σχόλια Χρήστη:</string>
+
+    <string-array name="natdis">
+
+        <item>Φωτιά</item>
+
+        <item>Πλημμύρα</item>
+
+        <item>Ανεμοστρόβιλος</item>
+
+        <item>Σεισμός</item>
+
+        <item>Άλλη Φυσική Καταστροφή</item>
+
+    </string-array>
+</resources>

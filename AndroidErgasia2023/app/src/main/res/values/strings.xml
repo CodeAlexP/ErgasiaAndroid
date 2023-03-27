@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Smart Alert</string>
+    <string name="report">Report</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="comments">Comments</string>
+    <string name="change_language">Change Language</string>
+    <string name="logout">Logout</string>
+    <string name="info">Info</string>
+    <string name="login_page">Login Page</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="register_page">Register Page</string>
+    <string name="register_user">Register User</string>
+    <string name="employee">Employee</string>
+    <string name="event">Event:</string>
+    <string name="report_time">Report Time:</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="user_comments">User Comments:</string>
+
+    <string-array name="natdis">
+
+        <item>Fire</item>
+
+        <item>Floods</item>
+
+        <item>Tornado</item>
+
+        <item>Earthquake</item>
+
+        <item>Other Natural Disasters</item>
+
+    </string-array>
+
+</resources>

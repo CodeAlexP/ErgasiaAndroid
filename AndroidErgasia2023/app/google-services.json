@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000282921890",
+    "project_id": "androidergasia2023",
+    "storage_bucket": "androidergasia2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000282921890:android:5a4eaa1dd1f6d6bb1af0fb",
+        "android_client_info": {
+          "package_name": "com.example.androidergasia2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000282921890-haha93cscaoebvjgo02gla72ecihucvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_EPlqsPSf4QbXyAvm_PN-V2iTWI0t1rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000282921890-haha93cscaoebvjgo02gla72ecihucvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
